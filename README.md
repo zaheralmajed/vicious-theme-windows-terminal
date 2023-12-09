@@ -27,7 +27,7 @@ Elevate your coding experience with Vicious, a sleek and immersive dark theme fo
 
 </div>
 <p align="center">
-<img  src="assets/screenshot.png" alt="Vicious Screenshot">
+<img  src="assets/screenshot-.png" alt="Vicious Screenshot">
 </p>
 
 # Installation
