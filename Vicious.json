@@ -1,0 +1,23 @@
+{
+  "name": "Vicious",
+  "cursorColor": "#FBFCFC",
+  "selectionBackground": "#FFFFFF",
+  "background": "#08090E",
+  "foreground": "#FBFCFC",
+  "black": "#08090E",
+  "blue": "#C96DCC",
+  "cyan": "#79C5CC",
+  "green": "#6DCC8B",
+  "purple": "#9479CC",
+  "red": "#CC6D7F",
+  "white": "#818184",
+  "yellow": "#F1C981",
+  "brightBlack": "#292A2F",
+  "brightBlue": "#EE81F1",
+  "brightCyan": "#8BE3EB",
+  "brightGreen": "#8DF181",
+  "brightPurple": "#AB8BEB",
+  "brightRed": "#F18196",
+  "brightWhite": "#FBFCFC",
+  "brightYellow": "#F1C981"
+}
